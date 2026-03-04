@@ -2,5 +2,9 @@
 {
     public class Student
     {
+        public Guid Registry { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public int RA { get; set; }
     }
 }

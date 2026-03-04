@@ -11,8 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="DTOs\" />
     <Folder Include="Interfaces\IServices\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
