@@ -2,6 +2,9 @@
 {
     public class StudentDTO
     {
-        public int MyProperty { get; set; }
+        public Guid Registry { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public int CPF { get; set; }
     }
 }

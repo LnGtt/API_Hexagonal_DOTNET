@@ -1,11 +1,13 @@
-﻿using API_Hexagonal_DOTNET.Entities;
+﻿using API_Hexagonal_DOTNET.DTOs;
+using API_Hexagonal_DOTNET.Entities;
+using API_Hexagonal_DOTNET.Interfaces.IServices;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API_Hexagonal_DOTNET.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class StudentController
+    public class StudentController : ControllerBase
     {
         private readonly IStudentService _service;
         public StudentController(IStudentService service)
