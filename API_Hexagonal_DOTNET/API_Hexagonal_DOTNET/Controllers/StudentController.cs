@@ -48,7 +48,7 @@ namespace API_Hexagonal_DOTNET.Controllers
             try
             {
                 _service.Register(register);
-                return Created();
+                return StatusCode(201);
             }
             catch (Exception ex)
             {

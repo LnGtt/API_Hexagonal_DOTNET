@@ -5,7 +5,7 @@ namespace API_Hexagonal_DOTNET.Data.Contexts
 {
     public class Context : DbContext
     {
-        public DbSet<Student> Students;
+        public DbSet<Student> Students { get; set; }
 
         public Context(DbContextOptions<Context> options): base(options) { }
 

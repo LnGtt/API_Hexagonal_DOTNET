@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|c:\\users\\luan\\desktop\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|solutionrelative:api_hexagonal_dotnet\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|c:\\users\\luan\\desktop\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|solutionrelative:api_hexagonal_dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|c:\\users\\luan\\desktop\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|solutionrelative:api_hexagonal_dotnet\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|c:\\users\\luan\\desktop\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|solutionrelative:api_hexagonal_dotnet\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|c:\\users\\luan\\desktop\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\interfaces\\irepositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|solutionrelative:api_hexagonal_dotnet\\interfaces\\irepositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|c:\\users\\luan\\desktop\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\data\\contexts\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|solutionrelative:api_hexagonal_dotnet\\data\\contexts\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Interfaces\\IRepositories\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "API_Hexagonal_DOTNET\\Interfaces\\IRepositories\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Interfaces\\IRepositories\\IStudentRepository.cs",
-              "RelativeToolTip": "API_Hexagonal_DOTNET\\Interfaces\\IRepositories\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T21:30:11.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "API_Hexagonal_DOTNET\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "API_Hexagonal_DOTNET\\Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Program.cs",
+              "RelativeDocumentMoniker": "API_Hexagonal_DOTNET\\Program.cs",
+              "ToolTip": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Program.cs",
+              "RelativeToolTip": "API_Hexagonal_DOTNET\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T21:25:04.247Z",
+              "WhenOpened": "2026-03-08T21:53:21.684Z",
               "EditorCaption": ""
             },
             {
@@ -66,22 +49,22 @@
               "RelativeDocumentMoniker": "API_Hexagonal_DOTNET\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Controllers\\StudentController.cs",
               "RelativeToolTip": "API_Hexagonal_DOTNET\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T21:13:33.83Z",
+              "WhenOpened": "2026-03-08T21:52:47.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "API_Hexagonal_DOTNET\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Services\\StudentService.cs",
-              "RelativeToolTip": "API_Hexagonal_DOTNET\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAyAAAAAAAAAA==",
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Data\\Contexts\\Context.cs",
+              "RelativeDocumentMoniker": "API_Hexagonal_DOTNET\\Data\\Contexts\\Context.cs",
+              "ToolTip": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Data\\Contexts\\Context.cs",
+              "RelativeToolTip": "API_Hexagonal_DOTNET\\Data\\Contexts\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:37:56.495Z",
+              "WhenOpened": "2026-03-08T21:52:02.095Z",
               "EditorCaption": ""
             }
           ]
