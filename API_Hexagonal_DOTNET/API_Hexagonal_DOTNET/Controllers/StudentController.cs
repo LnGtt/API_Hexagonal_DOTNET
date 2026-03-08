@@ -18,7 +18,21 @@ namespace API_Hexagonal_DOTNET.Controllers
         [HttpGet("GetAllStudents")]
         public IActionResult GetAllStudents()
         {
-            //codigo
+            try
+            {
+                var students = _service.GetAllStudents();
+
+                if (students == null || !students.Any())
+                {
+                    return NoContent();
+                }
+
+                return Ok(students); 
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno no servidor: {ex.Message}");
+            }
         }
 
         [HttpGet("GetStudentData")]

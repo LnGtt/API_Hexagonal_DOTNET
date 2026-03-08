@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|c:\\users\\luan\\desktop\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|solutionrelative:api_hexagonal_dotnet\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|c:\\users\\luan\\desktop\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\api_hexagonal_dotnet\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6BD567-5458-48A2-9E22-F8AB6F7E3877}|API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET.csproj|solutionrelative:api_hexagonal_dotnet\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "API_Hexagonal_DOTNET\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Entities\\Student.cs",
+              "RelativeToolTip": "API_Hexagonal_DOTNET\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:34:42.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "API_Hexagonal_DOTNET\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Luan\\Desktop\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\API_Hexagonal_DOTNET\\Services\\StudentService.cs",
+              "RelativeToolTip": "API_Hexagonal_DOTNET\\Services\\StudentService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:00:16.453Z",
+              "EditorCaption": ""
             }
           ]
         }
