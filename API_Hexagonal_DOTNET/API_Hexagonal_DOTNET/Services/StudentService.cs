@@ -15,12 +15,12 @@ namespace API_Hexagonal_DOTNET.Services
 
         public Student GetStudentData(Guid registry)
         {
-            //código
+            return _studentRepository.FindByRegistry(registry);
         }
 
         public List<Student> GetAllStudents()
         {
-            //código
+            return _studentRepository.SelectAll();
         }
 
         public void Register(StudentDTO studentDTO)
@@ -52,6 +52,8 @@ namespace API_Hexagonal_DOTNET.Services
                 newStudent.LastName = studentDTO.LastName;
                 newStudent.Email = studentDTO.Email;
                 newStudent.CPF = studentDTO.CPF;
+
+                _studentRepository.Save(newStudent);
 
             }
             catch (Exception ex)
